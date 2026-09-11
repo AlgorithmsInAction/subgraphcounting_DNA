@@ -4,8 +4,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import com.sun.media.sound.InvalidFormatException;
-
+import dna.io.InvalidFormatException;
 import dna.io.Reader;
 import dna.io.Writer;
 import dna.io.filesystem.Files;

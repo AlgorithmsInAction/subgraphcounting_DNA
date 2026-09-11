@@ -3,8 +3,6 @@ package dna.io;
 import java.io.IOException;
 import java.util.HashMap;
 
-import com.sun.media.sound.InvalidFormatException;
-
 import dna.graph.Graph;
 import dna.graph.datastructures.DArray;
 import dna.graph.datastructures.DArrayList;

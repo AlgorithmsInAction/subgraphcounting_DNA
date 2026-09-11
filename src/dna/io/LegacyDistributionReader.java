@@ -3,8 +3,6 @@ package dna.io;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import com.sun.media.sound.InvalidFormatException;
-
 import dna.io.filesystem.Files;
 import dna.series.data.distr.BinnedDoubleDistr;
 import dna.series.data.distr.BinnedIntDistr;
